@@ -3,6 +3,6 @@
         "port": 3001
     },
     "mongodb": {
-        "database": "mongodb://localhost/yabe-test"
+        "database": "mongodb://test-user:test-user1@ds161740.mlab.com:61740/yabe-test"
     }
 }
